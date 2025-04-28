@@ -1,4 +1,4 @@
-# 🫁 Application de Détection Automatique de la Pneumonie à partir de Radiographies Pulmonaires avec Deep Learning
+# Application de Détection Automatique de la Pneumonie à partir de Radiographies Pulmonaires avec Deep Learning
 
 ---
 
