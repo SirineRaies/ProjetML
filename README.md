@@ -33,16 +33,16 @@ Ce projet vise à automatiser la détection de la pneumonie à partir de radiogr
 
 | Caractéristique          | Détails                            |
 |---------------------------|------------------------------------|
-| Images d'entraînement     | 5,216 images                      |
-| Images de validation      | 16% des données d'entraînement (split automatique) |
+| Images d'entraînement     | 3,000 images                      |
+| Images de validation      | 856 images                        |
 | Images de test            | 624 images                        |
-| Format                    | JPEG, PNG                         |
+| Format                    | JPEG, PNG ,JPG ,BMP               |
 | Résolution                | Variable (redimensionnée à 224×224)|
 | Annotations               | Binaire (0 = Normal, 1 = Pneumonia)|
 
 ### 📂 Structure des Données
 
-- Images au format `.jpeg`, `.png`
+- Images au format `.jpeg`, `.png`,`.jpg`, `.bmp`
 - Certaines images en niveaux de gris, converties en RGB si nécessaire
 - Résolution standardisée : **224×224 pixels**
 - Labels : 
