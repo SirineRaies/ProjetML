@@ -40,6 +40,8 @@ Ce projet vise à automatiser la détection de la pneumonie à partir de radiogr
 | Résolution                | Variable (redimensionnée à 224×224)|
 | Annotations               | Binaire (0 = Normal, 1 = Pneumonia)|
 
+**URl de notre Dataset** : https://www.kaggle.com/code/madz2000/pneumonia-detection-using-cnn-92-6-accuracy
+
 ### 📂 Structure des Données
 
 - Images au format `.jpeg`, `.png`,`.jpg`, `.bmp`
